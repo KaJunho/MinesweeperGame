@@ -1,2 +1,3 @@
 # Minesweeper_Java
-Intelligent player for Minesweeper, using Java
+This is a multiplayer minesweeper game written in Java.
+
